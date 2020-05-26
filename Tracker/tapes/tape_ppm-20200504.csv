@@ -1,0 +1,83 @@
+﻿Property,Active/Paid Off or N/A,Loan Number,Multi-Lender Y/N,Lien Status,Original Loan Amount,Term,Close,Maturity,Note Rate,Sold Rate,LTV,Serviced,Bus/ Cons,Borrower FICO,Market Value,Payoff Date,Actual Term of paid off loans
+"552 East Palmyra Avenue., Orange, CA 92866; 465 10th St., San Francisco, CA 94103",Paid off,2016-1213,Y,2nd,"$1,371,000 ",11,1/12/2017,1/1/2018,9.90%,9.90%,66.60%,ppm,Cons,636,"$2,281,000.00 ",8/15/2018,19.33
+"1069 Westridge Ave., Danville, CA 94526",Paid off,2016-1219,Y,1st,"$1,220,000 ",11,1/12/2017,1/1/2018,9.90%,9.90%,69.25%,PPM,Cons,690,"$1,762,000.00 ",8/19/2017,7.3
+"165 Nymph Rd., Bolinas, CA 94924",Paid off,2017-0217,N,1st,"$558,000 ",11,3/6/2017,3/1/2018,8.99%,8.99%,72.00%,ppm,Cons,754,"$790,000.00 ",10/6/2017,7.13
+"1617 Fernwood Dr., Oakland 94611; 218 Peppermint Tree Terrace#3 Sunnyvale, 94086",Paid off,2017-0303,Y,1st,"$1,600,000 ",11,3/17/2017,3/1/2018,9.50%,9.50%,72.00%,PPM,Cons,707,"$1,650,000.00 ",5/30/2017,2.47
+"1401 Quesada Ave, San Francisco, CA 94124",Paid off,2017-0308,Y,1st,"$325,000 ",11,4/14/2017,4/1/2018,9.90%,9.50%,48.00%,ppm,con,565,"$682,000.00 ",6/23/2018,14.5
+"1685 Tacoma Ave, Berkeley, CA 94707",Active,2017-0320,N,1st,"$572,000 ",11,4/3/2017,4/1/2018,9.00%,9.00%,65.00%,ppm,con,na,"$887,000.00 ",na,
+"27575 Loma Del Rey, Carmel, CA 93923",Paid off,2017-0324,N,1st,"$921,600 ",11,4/7/2017,4/1/2018,9.00%,8.50%,72.00%,ppm,Con,740,"$1,280,000.00 ",12/12/2017,8.3
+"919 e. MacArthur St, Sonoma, CA 95476; 424 Denmark St, Sonoma, CA 94576",Paid off,2017-0327,Y,1+2,"$2,460,000 ",11,4/12/2017,4/1/2018,9.90%,9.50%,68.00%,PPM,Con,795,"$5,000,000.00 ",5/30/2017,1.6
+"50350 Vista Montana, La Quinta, CA 92253",Paid off,2017-0328,Y,1st,"$1,475,000 ",11,4/18/2017,4/1/2018,9.90%,9.50%,70.00%,PPM,Con,587,"$2,800,000.00 ",7/6/2018,14.8
+"19 Crystal Creek Ct., Larkspur, CA 94939",Paid off,2017-0329,Y,1st,"$850,000 ",11,4/7/2017,4/1/2018,8.90%,8.50%,49.00%,PPM,con,697,"$1,750,000.00 ",8/29/2018,16.97
+2355 Holly Oak Dr Danville CA 94506; 316 South Eagle Nest Lane Danville CA 94506,Paid off,2017-0410,N,1st+2nd,"$1,350,000 ",11,4/24/2017,3/1/2017,9.90%,9.90%,70.00%,Superior,Bus,737,"$2,403,000.00 ",na,
+1890 Marion Avenue Novato CA 94945,Paid off,2017-0419,N,1st,"$400,000 ",11,5/11/2017,5/1/2018,8.99%,8.99%,39.80%,PPM,Cons,644,"$980,000.00 ",9/7/2017,3.97
+14539 Sun Forest Dr Penn Valley CA 954946,Paid off,2017-0421,N,1st,"$177,800 ",11,5/15/2017,5/1/2018,9.90%,9.90%,70.00%,PPM,Con,681,"$254,000.00 ",3/30/2018,10.63
+151 Jarvis Circle Sacramento CA 95834,Paid off,2017-0507,N,1st,"$309,000 ",11,5/23/2017,5/1/2018,9.00%,8.50%,72.90%,PPM,Bus,697,"$307,400.00 ",3/19/2018,10
+"287 Los Laureles Grade Rd Carmel Valley, CA 93924",Paid off,2017-0508,Y,1st,"$1,065,000 ",11,5/18/2017,5/1/2018,9.00%,8.50%,73.00%,PPM,Con,788,"$1,460,000.00 ",8/8/2017,2.73
+"507 Cavalier Court, Fairfield, CA 94534",Active,2017-0515,N,1st,"$500,000 ",11,6/13/2017,6/1/2018,8.99%,8.49%,59.90%,ppm,Con,768,"$835,000.00 ",na,
+27 Maple Ave Kentfield; 115 Hidden Valley Lane san anselmo; 471 29th St San Francisco,Paid off,2017-0516,Y,2nd,"$2,625,000 ",11,5/30/2017,5/1/2018,9.50%,9.00%,64.30%,ppm,Con,686,"$5,225,000.00 ",10/2/2017,4.17
+7288 Orchard Circle Penryn Ca 95663,Paid off,2017-0602,N,1st,"$294,000 ",11,7/12/2017,7/1/2018,9.90%,9.90%,70.00%,ppm,Con,515,"$429,000.00 ",1/3/2018,5.83
+"1264 South Clover Ave. Campbell, CA 95008",Paid off,2017-0608,N,1st,"$749,000 ",11,6/26/2017,6/1/2017,10.50%,10.50%,70.00%,ppm,Cons,635,"$1,070,000.00 ",6/8/2018,11.57
+"8643 Thors Bay Rd. El Cerrito, CA 94530",Paid off,2017-0613,N,1st,"$783,360 ",11,6/23/2017,6/1/2018,9.00%,8.50%,54.40%,ppm,Con,761,"$1,088,000.00 ",8/21/2017,1.97
+3136 Bradshaw Rd Wheatland CA 95692,Paid off,2017-0627,N,1st,"$198,000 ",11,8/3/2017,7/1/2018,9.90%,9.90%,85.00%,ppm,Con,725,"$325,000.00 ",1/17/2019,17.73
+"244 Granada Dr. Corte Madera, CA 94925; 13 Enterprise Dr. Corte Madera, CA 94925",Paid off,2017-0707,Y,1st,"$1,250,000 ",11,7/19/2017,7/1/2018,7.88%,7.88%,79.99%,WAG,Bus,816,"$1,574,000.00 ",na,
+1887 Mulberry St. Yountville CA 94599; 53 Homestead Blvd Mill Valley CA 94941,Paid off,2017-0718,Y,1st,"$775,000 ",11,7/31/2017,7/1/2018,8.50%,8.50%,85.00%,Wag,Bus,781,"$920,000.00 ",na,
+322 King Drive South San Francisco Ca 94080; 63 Northcrest Drive South San Francisco CA 94080,Paid off,2017-0801,Y,1st+2nd,"$864,000 ",11,9/14/2017,9/1/2018,9.88%,9.50%,72.00%,ppm,Con,769,"$1,200,000.00 ",12/20/2017,3.23
+601 Southview Court Placerville CA 95667; 18010 Yosemite Road Tuolemne CA 95379,Active,2017-0813,N,1st,"$575,000 ",11,10/20/2017,10/1/2018,9.90%,9.50%,53.00%,ppm,con,674,"$1,081,900.00 ",na,
+2838 Springwood Drive South Lake Tahoe CA 96150,Active,2017-0814,N,1st,"$150,000 ",11,9/11/2017,9/1/2018,9.90%,9.50%,33.00%,PPM,Con,624,"$450,000.00 ",na,
+3264 Encinal Avenue Alameda CA 94501,Active,2017-0906,Y,1st,"$415,000 ",11,9/27/2017,9/1/2018,9.00%,8.50%,44.90%,ppm,Con,636,"$925,000.00 ",6/15/2018,8.7
+238 Park Place Drive Petaluma CA 94954; 132 Clover Springs Drive Cloverdale CA 95425,Paid off,2017-0919,N,1st,"$425,000 ",11,10/6/2017,10/1/2018,9.90%,9.40%,107.60%,ppm,con,808,"$395,000.00 ",11/6/2017,1.03
+190 Rancho Drive Belvedere Tiburon CA 94920; 35 Rancho Drive Belvedere Tiburon CA 94920,Paid off,2017-0921,Y,1st + 2nd,"$2,000,000 ",11,10/4/2017,10/1/2018,9.50%,9.00%,61.70%,ppm,con,790,"$4,695,000.00 ",11/10/2017,1.23
+103 Pixley Ave Corte Madera CA 94925; 122 Stanford Way Sausalito CA 94965,Paid off,2017-1006,N,1st+2nd,"$685,000 ",11,11/16/2017,11/1/2018,9.50%,9.00%,48.90%,PPM,Con,782,"$1,185,000.00 ",2/14/2018,3
+1261 Santa Maria Street Los Banos CA 93635,Active,2017-1018,Y,1st,"$100,000 ",11,10/30/2017,10/1/2018,9.00%,9.00%,39.00%,ppm,con,596,"$255,000.00 ",9/20/2018,10.83
+311 6th Street Wheatland CA 95692; 3011 Coopers Hawk Loop Lincoln CA 95648,Paid off,2017-1026,N,2nd,"$175,000 ",11,12/5/2017,12/1/2018,9.90%,9.50%,59.50%,PPM,Con,660,"$624,000.00 ",1/17/2019,13.6
+768 Normandy Rd Encitas CA; 5408 North Tyler Avenue Arcadia CA 91006,Active,2017-1115,N,1st,"$1,260,000 ",11,11/22/2017,11/1/2018,9.00%,9.00%,70.80%,PPM,Con,619,"$2,000,000.00 ",na,
+10520 Stella Street Oakland CA 94605; 1542 21st Avenue San Francisco CA 94122,Paid off,2017-1121,Y,1st,"$998,000 ",11,12/19/2017,12/1/2018,9.50%,9.00%,48.50%,PPM,Bus,678,"$2,800,000.00 ",4/30/2018,4.4
+1795 Mistler Street Dixon CA 95620,Paid off,2017-1123,N,1st,"$300,000 ",11,12/7/2017,12/1/2018,10.13%,9.63%,75.00%,PPM,Con,804,"$400,000.00 ",7/12/2018,7.23
+6773 Portshead Road Malibu CA 90265,Paid off,2017-1128,N,1st,"$2,800,000 ",11,1/10/2018,1/1/2019,9.00%,8.75%,92.00%,PPM,Con,673,"$4,106,000.00 ",5/31/2018,4.7
+12321 Gigli Ct Los Altos CA 94022; 15 Rolling Hills Ave San Mateo CA 94403,Paid off,2017-1214,Y,1st,"$1,700,000 ",11,1/12/2018,1/1/2019,9.00%,8.50%,17.20%,PPM,Con,760,"$4,500,000.00 ",2/21/2018,1.33
+8054 Chardonay Ct San Jose CA 95135; 1484 Cedar Place Los Altos CA 94024,Paid off,2017-1221,Y,1st,"$1,200,000 ",11,12/28/2017,12/1/2018,10.50%,10.00%,33.00%,PPM,Con,807,"$3,700,000.00 ",2/15/2018,1.63
+46 Ocean View Ave Dillon Beach CA 94929; 9566 Main St Penngrove CA 94951,Paid off,2018-0104,Y,1st+2nd,"$625,000 ",11,1/12/2018,1/1/2019,9.50%,9.00%,64.80%,PPM,Con,787,"$1,326,000.00 ",3/12/2018,1.97
+4335 Cedarhurst Circle Los Angeles CA 90027-2106,Paid off,2018-0203,N,1st,"$600,000 ",11,3/7/2018,2/1/2019,9.00%,9.00%,31.60%,PPM,Con,781,"$1,900,000.00 ",5/7/2018,2.03
+"321 North San Pedro Road San Rafael, CA 94903",Paid off,2018-0228,N,1st,"$420,000 ",11,3/12/2018,3/1/2019,10.50%,10.00%,70.00%,PPM,Bus,713,"$600,000.00 ",7/4/2018,3.8
+583 Canyon Road Redwood City CA 94062,Paid off,2018-0301,N,1st,"$1,400,000 ",11,3/20/2018,3/1/2019,9.50%,9.50%,64.30%,PPM,Con,788,"$2,200,000.00 ",7/31/2018,4.43
+7 Highland Avenue San Rafael CA 94901,Paid off,2018-0302,N,1st,"$1,400,000 ",11,3/30/2018,3/1/2019,9.50%,9.50%,69.10%,PPM,Con,792,"$2,027,273.00 ",9/28/2018,6.07
+45 Carob Way Novato CA 94945; 2873 Bouveron Court San Jose CA 95148,Paid off,2018-0306x,N,1st,"$1,100,000 ",11,3/21/2018,3/1/2019,9.50%,9.00%,59.00%,PPM,Con,720,"$1,850,000.00 ",7/13/2018,3.8
+404 Snapdragon Lane Lincoln CA 95648; 933 Alla Court Concord CA 94518,Paid off,2018-0312x,N,2nd,"$560,000 ",11,3/30/2018,3/1/2019,8.90%,8.90%,50.40%,PPM,Con,788,"$1,355,000.00 ",7/6/2018,3.27
+45041 Casas De Mariposa Indian Wells CA 92210; 5313 Spilman Avenue Sacramento CA 95819,Paid off,2018-0316x,N,1st,"$830,000 ",11,3/30/2018,3/1/2019,9.00%,9.00%,59.40%,PPM,Con,742,"$1,430,000.00 ",7/10/2018,3.4
+804 North The Strand #8 Oceanside CA 92054; 41315 Gallop Lane Murrieta CA 92562,Paid off,2018-0322,Y,1st,"$1,280,000 ",11,4/30/2018,4/1/2019,9.90%,9.50%,75.30%,PPM,Con,789,"$2,975,000.00 ",1/23/2019,8.93
+554 Santa Maria Terrace #4 Sunnyvale CA 94085,Active,2018-0401,Y,1st,"$1,050,000 ",11,4/17/2018,4/1/2019,9.50%,9.00%,68.60%,PPM,Con,652,"$1,700,000.00 ",na,
+4317 Grandview Way Rohnert Park CA 94928,Paid off,2018-0419,Y,1st,"$112,000 ",11,4/30/2018,4/1/2019,8.50%,8.00%,21.00%,PPM,Con,798,"$534,000.00 ",8/15/2018,3.57
+5058 Brentford Way El Dorado Hills CA 95762,Paid off,2018-0426,Y,1st,"$215,000 ",11,5/8/2018,5/1/2019,8.50%,8.00%,25.70%,PPM,Con,777,"$834,990.00 ",12/26/2018,7.73
+378 Felton Drive Menlo Park CA 94025; 500 2nd Street San Francisco CA 94107,Paid off,2018-0427,Y,1st,"$2,815,000 ",11,5/14/2018,5/1/2019,9.00%,8.88%,49.50%,PPM,Con,778,"$15,815,000.00 ",6/30/2018,1.57
+12130 Highway 116 Guernville CA 95446; 3085 Monterey Blvd Oakland CA 94602,Active,2018-0516,N,1st+2nd,"$1,150,000 ",11,6/14/2018,6/1/2019,9.00%,8.50%,65.10%,PPM,Con,677,"$3,104,000.00 ",na,
+106 Larkspur Loop Morgan Hill CA 95037,Active,2018-0605,N,1st,"$180,000 ",11,6/12/2018,6/1/2019,9.00%,8.50%,21.80%,PPM,Con,na,"$825,000.00 ",na,
+195-174-23 Stinson Beach CA 94941; 1850 University Way San Jose CA 95126,Paid off,2018-0628,Y,1st+2nd,"$890,000 ",11,7/26/2018,7/1/2019,9.00%,9.00%,51.50%,FCI,Con,781,"$2,481,000.00 ",na,
+113 Leslie Street Ukiah CA 95482,Paid off,2018-0702,N,1st,"$120,000 ",11,7/16/2018,7/1/2019,10.00%,9.50%,50.70%,PPM,Bus,638,"$190,000.00 ",11/16/2018,4.1
+216 Longford Drive South San Francisco,Paid off,2018-0706,Y,2nd,"$400,000 ",11,7/16/2018,7/1/2019,10.00%,9.50%,66.50%,PPM,Con,707,"$1,030,000.00 ",10/8/2018,2.8
+3046 Stone Station Sebastopol CA 95472; 900 Bush Street PH#5 San Francisco CA 94109,Paid off,2018-0709,Y,1st,"$1,250,000 ",11,7/13/2018,7/1/2019,9.50%,9.00%,60.00%,PPM,Con,782,"$1,250,000.00 ",9/4/2018,1.77
+1000 Francis Court Folsom CA 95630; 7900 Crossridge Rd Dublin CA 94568,Paid off,2018-0713,N,1st,"$588,000 ",11,8/3/2018,9/1/2018,9.00%,8.50%,64.98%,PPM,Con,804,"$573,000.00 ",10/29/2018,2.9
+1038 Mangrove Lane Alameda 94502; 1011 Kingston Lane Alameda 94502,Paid off,2018-0714,Y,1st,"$1,100,000 ",11,7/20/2018,7/1/2019,9.00%,8.50%,59.20%,PPM,Con,707,"$2,025,000.00 ",9/28/2018,2.33
+19177 Carlton Avenue Castro Valley CA 94546,Paid off,2018-0716,N,1st,"$938,000 ",11,7/25/2018,7/1/2019,9.50%,9.00%,55.40%,PPM,Con,748,"$1,693,000.00 ",10/19/2018,2.87
+2827 Shenandoah Drive Chula Vista CA 91914,Active,2018-0718,Y,1st,"$817,200 ",11,8/3/2018,7/1/2019,9.00%,8.50%,72.00%,PPM,Con,684,"$1,135,000.00 ",na,
+7 Rutherford Avenue San Anselmo CA 94960,Active,2018-0719,Y,1st,"$625,000 ",11,8/8/2018,8/1/2019,9.90%,9.50%,78.10%,PPM,Bus,723,"$950,000.00 ",na,
+2239 Stradella Road Los Angeles CA 9007; 84 Buena Vista Avenue Mill Valley CA 94941,Paid off,2018-0727,Y,1st,"$3,350,000 ",11,8/22/2018,8/1/2019,9.00%,8.50%,49.10%,PPM,Con,740,"$8,000,000.00 ",1/1/2019,4.4
+"1691 Southview Drive Petaluma, CA 94954; 1105 I Street Petaluma, CA 94952",Paid off,2018-0729,Y,1st+2nd,"$940,000 ",11,8/22/2018,8/1/2019,9.90%,9.40%,70.00%,PPM,Con,676,"$1,887,000.00 ",12/29/2018,4.3
+4907 Noble Court Winters CA 95694,Paid off,2018-0802,N,1st,"$539,000 ",11,8/16/2018,8/1/2019,9.90%,9.90%,70.00%,PPM,Con,600,"$770,000.00 ",1/7/2019,4.8
+2261 Mantelli Drive Gilroy CA 95020,Active,2018-0809,N,1st,"$210,000 ",11,8/24/2018,8/1/2019,8.99%,8.99%,15.60%,PPM,Con,667,"$700,000.00 ",na,
+224 Morning Sun Avenue Mill Valley CA 94941,Paid off,2018-0906,Y,1st,"$910,000 ",11,9/19/2018,9/1/2019,9.50%,9.00%,70.00%,PPM,Bus,730,"$1,300,000.00 ",1/3/2019,3.53
+4191 Kilt Circle El Dorado Hills CA 95762; 942 Alameda De Las Pulgas San Carlos CA 94070,Active,2018-0913,N,1st,"$496,000 ",11,9/20/2018,9/1/2019,9.00%,9.00%,10.20%,PPM,Con,na,"$2,660,300.00 ",na,
+740 Bolinas Road Fairfax CA 94930,Active,2018-0914,Y,1st,"$832,300 ",11,9/20/2018,11/1/2018,9.90%,9.40%,66.70%,PPM,Con,717,"$1,248,000.00 ",na,
+25 Stirrup Lane Novato CA 94947; 1365 Denlyn St Novato CA 94945,Paid off,2018-0920,N,1st,"$965,000 ",11,10/5/2018,10/1/2019,8.50%,8.00%,75.70%,PPM,Con,800,"$1,450,000.00 ",1/3/2019,3
+2284 Paris Avenue Redding CA 96001,Active,2018-0922,N,1st,"$129,500 ",11,9/28/2018,9/1/2019,9.90%,9.40%,69.90%,PPM,Con,587,"$185,250.00 ",na,
+4250 Sadao Court Palm Springs CA 92262; 68 Burlwood Drive San Francisco CA 94127,Active,2018-0923,N,1st,"$650,000 ",11,10/12/2018,10/1/2019,8.99%,8.25%,45.00%,PPM,Con,732,"$2,100,000.00 ",na,
+107 Marcus Ave Richmond CA 94801; 321 Market Avenue Richmond CA 94801,Paid off,2018-0924,N,1st,"$600,000 ",11,10/12/2018,10/1/2019,9.50%,9.00%,52.00%,PPM,Con,746,"$1,000,000.00 ",12/18/2018,2.23
+2516 Sasparilla Court Rocklin CA 95765; 636 Shenandoah Ave San Marcos CA 92078,Active,2018-1015,N,2nd,"$450,000 ",11,11/1/2018,10/1/2019,8.99%,8.50%,67.60%,PPM,Con,751,"$1,080,000.00 ",na,
+26776 Almaden Ct Los Altos CA 94022; 903 Camille Lane Mountain View CA 94040,Paid off,2018-1026,Y,1st+2nd,"$2,116,000 ",11,11/5/2018,11/1/2019,9.50%,9.00%,60.00%,PPM,Con,788,"$2,700,000.00 ",12/26/2018,1.7
+"472 Oakbrook Ct Santa Rosa, CA 95409; 1820 Mariposa Way Brentwood CA 94513",Active,2018-1101,N,1st+2nd,"$700,000 ",11,11/14/2018,11/1/2019,9.00%,9.00%,69.00%,PPM,Con,686,"$1,284,000.00 ",na,
+261 North Sunnyvale Avenue Sunnyvale CA 94086,Active,2018-1112,Y,1st,"$1,122,000 ",11,11/15/2018,11/1/2019,9.75%,9.25%,70.00%,PPM,Con,663,"$1,603,000.00 ",na,
+159 Cazneau Avenue Sausalito CA 94965,Active,2018-1113,Y,1st,"$1,200,000 ",11,11/27/2018,11/1/2019,9.90%,8.90%,64.40%,PPM,Con,789,"$1,800,000.00 ",na,
+4029 Via Pavlon Palos Verdes Peninsula CA 90274,Active,2018-1125,Y,1st,"$700,000 ",11,12/21/2018,12/1/2019,8.75%,8.50%,55.60%,PPM,Con,738,"$1,595,000.00 ",na,
+382 Dorado Way South San Francisco CA 94080; 145 Conejo Drive Millbrae CA 94030,Active,2018-1126,Y,1st,"$1,739,550 ",11,12/27/2018,12/1/2019,9.50%,9.00%,62.00%,PPM,Con,776,"$4,074,000.00 ",na,
+1618 Mellowood St Oakley CA 94561,Active,2018-1223,N,1st,"$290,000 ",11,12/28/2018,12/1/2019,9.75%,9.25%,50.90%,PPM,Con,598,"$570,000.00 ",na,
+2117 Falcon Ridge Drive Petaluma CA 94954; 1173 San Rafael Drive Petaluma CA 94954,Active,2019-0114,Y,1st+2nd,"$745,000 ",11,1/24/2019,1/1/2020,9.90%,9.00%,55.50%,PPM,Con,766,"$1,460,000.00 ",na,
